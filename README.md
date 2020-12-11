@@ -13,7 +13,7 @@ En este repositorio encontrarás todos los materiales desarrollados durante el W
 
 ## Cómo ejecutar la aplicación
 
-- Ejecuta el archivo `index.html` en el navegador web
+- Abre el archivo `index.html` en el navegador web
 
 
 ## Recursos utilizados durante el Webinar
