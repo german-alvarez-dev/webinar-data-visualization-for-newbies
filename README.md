@@ -1,7 +1,8 @@
-# Webinar | Visualización de datos para newbies! | Materiales
+# Webinar | Visualización de datos para newbies @ Ironhack Madrid
 
 En este repositorio encontrarás todos los materiales desarrollados durante el Webinar, y un par de retos para que resuelvas por tu cuenta.
 
+<hr>
 
 ## Cómo descargar los códigos del webinar
 
@@ -10,8 +11,14 @@ En este repositorio encontrarás todos los materiales desarrollados durante el W
 - Descarga y descomprime los archivos
 
 
+## Cómo ejecutar la aplicación
+
+- Ejecuta el archivo `index.html` en el navegador web
+
+
 ## Recursos utilizados durante el Webinar
 
+- Software de desarrollo Visual Studio Code ([link](https://code.visualstudio.com/))
 - Librería de Javascript ChartJS ([link](https://www.chartjs.org/))
 - API de montañas rusas ([link](https://github.com/german-alvarez-dev/api-coasters))
 
